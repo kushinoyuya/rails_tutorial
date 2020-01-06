@@ -67,3 +67,6 @@ gem 'hirb-unicode' # 日本語などマルチバイト文字の出力時の出�
 
 gem 'bcrypt'       # パスワードをハッシュ化Gem
 gem "jquery-rails"
+gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
